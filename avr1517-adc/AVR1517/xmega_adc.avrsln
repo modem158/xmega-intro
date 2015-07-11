@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "task1 - ADC Single Ended Input\task1.avrgccproj", "{B9C3E9C2-D73E-4601-8539-0E6801B6166B}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "task2 - ADC Compare Function\task2.avrgccproj", "{1A532774-F0E3-43FE-A109-6577EFA1C1BB}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "task3 - ADC Virtual Channels\task3.avrgccproj", "{0D3131A9-DABB-4F59-A639-4B6C3AC9C8A8}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task4", "task4 - ADC Event Triggering\task4.avrgccproj", "{BCFC3180-C8EB-445D-98BF-37F92EAAB309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C3E9C2-D73E-4601-8539-0E6801B6166B}.default|AVR.ActiveCfg = default|AVR
+		{B9C3E9C2-D73E-4601-8539-0E6801B6166B}.default|AVR.Build.0 = default|AVR
+		{1A532774-F0E3-43FE-A109-6577EFA1C1BB}.default|AVR.ActiveCfg = default|AVR
+		{1A532774-F0E3-43FE-A109-6577EFA1C1BB}.default|AVR.Build.0 = default|AVR
+		{0D3131A9-DABB-4F59-A639-4B6C3AC9C8A8}.default|AVR.ActiveCfg = default|AVR
+		{0D3131A9-DABB-4F59-A639-4B6C3AC9C8A8}.default|AVR.Build.0 = default|AVR
+		{BCFC3180-C8EB-445D-98BF-37F92EAAB309}.default|AVR.ActiveCfg = default|AVR
+		{BCFC3180-C8EB-445D-98BF-37F92EAAB309}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

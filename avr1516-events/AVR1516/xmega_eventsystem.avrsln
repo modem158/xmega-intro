@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "task1 - 32-bits TimerCounter\task1.avrgccproj", "{56F75D99-8C76-4EB5-9E41-3622FFB50021}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "task2 - Input capture\task2.avrgccproj", "{1390C182-2619-4C93-9C1E-A74A0A47F183}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "task3 - Synchronized triggering\task3.avrgccproj", "{9E2406D9-EB8C-4FE5-B02E-FAC79703EB41}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task4", "task4 - Manually generating events\task4.avrgccproj", "{E8D3CCB1-A09F-48AE-851C-D84D4B1204A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F75D99-8C76-4EB5-9E41-3622FFB50021}.default|AVR.ActiveCfg = default|AVR
+		{56F75D99-8C76-4EB5-9E41-3622FFB50021}.default|AVR.Build.0 = default|AVR
+		{1390C182-2619-4C93-9C1E-A74A0A47F183}.default|AVR.ActiveCfg = default|AVR
+		{1390C182-2619-4C93-9C1E-A74A0A47F183}.default|AVR.Build.0 = default|AVR
+		{9E2406D9-EB8C-4FE5-B02E-FAC79703EB41}.default|AVR.ActiveCfg = default|AVR
+		{9E2406D9-EB8C-4FE5-B02E-FAC79703EB41}.default|AVR.Build.0 = default|AVR
+		{E8D3CCB1-A09F-48AE-851C-D84D4B1204A8}.default|AVR.ActiveCfg = default|AVR
+		{E8D3CCB1-A09F-48AE-851C-D84D4B1204A8}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "Task1\task1.avrgccproj", "{4A01B024-A2EE-46A3-9DC9-EF4A31E611AF}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "Task2\task2.avrgccproj", "{D44F1172-A78A-442A-9BAA-88202A4F4004}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "Task3\task3.avrgccproj", "{AD540251-F2C6-4B58-AB3F-054B41A89348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A01B024-A2EE-46A3-9DC9-EF4A31E611AF}.default|AVR.ActiveCfg = default|AVR
+		{4A01B024-A2EE-46A3-9DC9-EF4A31E611AF}.default|AVR.Build.0 = default|AVR
+		{D44F1172-A78A-442A-9BAA-88202A4F4004}.default|AVR.ActiveCfg = default|AVR
+		{D44F1172-A78A-442A-9BAA-88202A4F4004}.default|AVR.Build.0 = default|AVR
+		{AD540251-F2C6-4B58-AB3F-054B41A89348}.default|AVR.ActiveCfg = default|AVR
+		{AD540251-F2C6-4B58-AB3F-054B41A89348}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

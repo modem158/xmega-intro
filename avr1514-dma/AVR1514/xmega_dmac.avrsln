@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "task 2 - Recorder\task2.avrgccproj", "{717B11AA-57B1-4DD6-9715-A881D83EA796}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "task 1 - Memory Copy\task1.avrgccproj", "{0B9BB954-817B-42E8-9A18-B30A336FCA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717B11AA-57B1-4DD6-9715-A881D83EA796}.default|AVR.ActiveCfg = default|AVR
+		{717B11AA-57B1-4DD6-9715-A881D83EA796}.default|AVR.Build.0 = default|AVR
+		{0B9BB954-817B-42E8-9A18-B30A336FCA08}.default|AVR.ActiveCfg = default|AVR
+		{0B9BB954-817B-42E8-9A18-B30A336FCA08}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

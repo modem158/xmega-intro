@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "Task1-IntroSleep\task1.avrgccproj", "{67D2BB43-9DFC-4285-8746-9F25D91CD31F}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "Task2-PowerSave\task2.avrgccproj", "{A62DC85B-5024-4FA4-BE14-74417755CD09}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "Task3-PowerRedReg\task3.avrgccproj", "{6E4B4695-4828-4AFF-A6E9-1E1AE43D9374}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task4", "Task4-IdleDMA\task4.avrgccproj", "{BA209D82-1B43-4637-B310-72050D4CFD14}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task5", "Task5-TwiWake\task5.avrgccproj", "{5D8BD5ED-0306-48DA-B123-E2B77EB3591A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D2BB43-9DFC-4285-8746-9F25D91CD31F}.default|AVR.ActiveCfg = default|AVR
+		{67D2BB43-9DFC-4285-8746-9F25D91CD31F}.default|AVR.Build.0 = default|AVR
+		{A62DC85B-5024-4FA4-BE14-74417755CD09}.default|AVR.ActiveCfg = default|AVR
+		{A62DC85B-5024-4FA4-BE14-74417755CD09}.default|AVR.Build.0 = default|AVR
+		{6E4B4695-4828-4AFF-A6E9-1E1AE43D9374}.default|AVR.ActiveCfg = default|AVR
+		{6E4B4695-4828-4AFF-A6E9-1E1AE43D9374}.default|AVR.Build.0 = default|AVR
+		{BA209D82-1B43-4637-B310-72050D4CFD14}.default|AVR.ActiveCfg = default|AVR
+		{BA209D82-1B43-4637-B310-72050D4CFD14}.default|AVR.Build.0 = default|AVR
+		{5D8BD5ED-0306-48DA-B123-E2B77EB3591A}.default|AVR.ActiveCfg = default|AVR
+		{5D8BD5ED-0306-48DA-B123-E2B77EB3591A}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

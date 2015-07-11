@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "Task1 - Polling Controlled\task1.avrgccproj", "{ADE7B26C-03F8-452A-BE15-88A4777979BB}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "Task2 - Interrupt Controlled\task2.avrgccproj", "{FD815D0B-3D19-4EA9-8D12-EB6FB8F02B22}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "Task3 - DMA Approach\task3.avrgccproj", "{4D221786-15B3-4375-8952-C9BC7291A77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE7B26C-03F8-452A-BE15-88A4777979BB}.default|AVR.ActiveCfg = default|AVR
+		{ADE7B26C-03F8-452A-BE15-88A4777979BB}.default|AVR.Build.0 = default|AVR
+		{FD815D0B-3D19-4EA9-8D12-EB6FB8F02B22}.default|AVR.ActiveCfg = default|AVR
+		{FD815D0B-3D19-4EA9-8D12-EB6FB8F02B22}.default|AVR.Build.0 = default|AVR
+		{4D221786-15B3-4375-8952-C9BC7291A77B}.default|AVR.ActiveCfg = default|AVR
+		{4D221786-15B3-4375-8952-C9BC7291A77B}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

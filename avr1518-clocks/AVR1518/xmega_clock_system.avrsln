@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "Task1-ClockSwitching\task1.avrgccproj", "{3BA12891-0F07-4621-BE62-7166D66C21B8}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "Task2-PLL\task2.avrgccproj", "{EB7498E1-5020-43DE-A428-342EC663ED45}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "Task3-RuntimeCalibration\task3.avrgccproj", "{99CF4187-E3F7-4E74-9BA5-3C85DD7CDD72}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task4", "Task4-RealTimeCounter\task4.avrgccproj", "{2C353A71-7B2C-4152-940A-C6DEF7216E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA12891-0F07-4621-BE62-7166D66C21B8}.default|AVR.ActiveCfg = default|AVR
+		{3BA12891-0F07-4621-BE62-7166D66C21B8}.default|AVR.Build.0 = default|AVR
+		{EB7498E1-5020-43DE-A428-342EC663ED45}.default|AVR.ActiveCfg = default|AVR
+		{EB7498E1-5020-43DE-A428-342EC663ED45}.default|AVR.Build.0 = default|AVR
+		{99CF4187-E3F7-4E74-9BA5-3C85DD7CDD72}.default|AVR.ActiveCfg = default|AVR
+		{99CF4187-E3F7-4E74-9BA5-3C85DD7CDD72}.default|AVR.Build.0 = default|AVR
+		{2C353A71-7B2C-4152-940A-C6DEF7216E21}.default|AVR.ActiveCfg = default|AVR
+		{2C353A71-7B2C-4152-940A-C6DEF7216E21}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

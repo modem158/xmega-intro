@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "task 1 - Overflow Interrupt\task1.avrgccproj", "{3CB9599A-0A79-4DF8-806E-1E418640521B}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "task 2 - Interrupt Levels\task2.avrgccproj", "{622EC884-8F79-424B-A3A2-9163143FED27}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "task 3 - Round Robin\task3.avrgccproj", "{2BE3E787-82D2-426D-9384-021F4050E9D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB9599A-0A79-4DF8-806E-1E418640521B}.default|AVR.ActiveCfg = default|AVR
+		{3CB9599A-0A79-4DF8-806E-1E418640521B}.default|AVR.Build.0 = default|AVR
+		{622EC884-8F79-424B-A3A2-9163143FED27}.default|AVR.ActiveCfg = default|AVR
+		{622EC884-8F79-424B-A3A2-9163143FED27}.default|AVR.Build.0 = default|AVR
+		{2BE3E787-82D2-426D-9384-021F4050E9D2}.default|AVR.ActiveCfg = default|AVR
+		{2BE3E787-82D2-426D-9384-021F4050E9D2}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

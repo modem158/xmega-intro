@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task1", "task1 - Starting the Timer\task1.avrgccproj", "{6277A3BE-8FA4-4BDA-86DA-C89DD5054BD2}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task2", "task2 - Compare Match\task2.avrgccproj", "{35DD1C24-6E4F-4866-A9B1-3B79BA52B5F7}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task3", "task3 - Waveform Generation\task3.avrgccproj", "{C947D8B5-8C52-4F30-95E8-3510B1E4CAD5}"
+EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "task4", "task4 - AWeX\task4.avrgccproj", "{349F0438-FE21-472F-B379-8DAD428EFE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6277A3BE-8FA4-4BDA-86DA-C89DD5054BD2}.default|AVR.ActiveCfg = default|AVR
+		{6277A3BE-8FA4-4BDA-86DA-C89DD5054BD2}.default|AVR.Build.0 = default|AVR
+		{35DD1C24-6E4F-4866-A9B1-3B79BA52B5F7}.default|AVR.ActiveCfg = default|AVR
+		{35DD1C24-6E4F-4866-A9B1-3B79BA52B5F7}.default|AVR.Build.0 = default|AVR
+		{C947D8B5-8C52-4F30-95E8-3510B1E4CAD5}.default|AVR.ActiveCfg = default|AVR
+		{C947D8B5-8C52-4F30-95E8-3510B1E4CAD5}.default|AVR.Build.0 = default|AVR
+		{349F0438-FE21-472F-B379-8DAD428EFE53}.default|AVR.ActiveCfg = default|AVR
+		{349F0438-FE21-472F-B379-8DAD428EFE53}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
