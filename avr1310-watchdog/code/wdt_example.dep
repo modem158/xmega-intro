@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4092223494</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\List\wdt_driver.s90</file>
+      <file>$PROJ_DIR$\Debug\List\wdt_example.lst</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\pgmspace.h</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-6s-xmega-n.r90</file>
+      <file>$TOOLKIT_DIR$\inc\ioxm128a1.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+      <file>$PROJ_DIR$\wdt_driver.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgxm128a1.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_example.r90</file>
+      <file>$PROJ_DIR$\Debug\Exe\wdt_example.d90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\List\wdt_example.map</file>
+      <file>$PROJ_DIR$\Debug\Exe\wdt_example.a90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_example.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_example.pbi</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgxmega6soim.xcl</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-6s-xmega-n.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\Atmel\ATxmega128A1.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\List\wdt_driver.lst</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\Atmel\iomacro_xmega.h</file>
+      <file>$PROJ_DIR$\Debug\List\wdt_example.s90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdint.h</file>
+      <file>$PROJ_DIR$\avr_compiler.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\string.h</file>
+      <file>$PROJ_DIR$\wdt_driver.c</file>
+      <file>$PROJ_DIR$\wdt_example.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_driver.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdt_driver.r90</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 14 16 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\wdt_example.d90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 16 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 12 21 40 13 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\wdt_example.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 39 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wdt_driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 2 26 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 11 33 32 23 30 35 22 10 1 18 5 15 31 27 0 34 9 7 24 28 6 36 25 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 33 32 23 30 35 10 1 18 5 15 31 27 0 34 9 7 24 28 6 36 25 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wdt_example.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 29 3 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 33 32 23 30 35 22 10 1 18 5 15 31 27 0 34 9 7 24 28 6 36 25 4 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 32 23 30 35 10 1 18 5 15 31 27 0 34 9 7 24 28 6 36 25 4 11</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

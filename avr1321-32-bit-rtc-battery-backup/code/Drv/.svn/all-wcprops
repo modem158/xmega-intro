@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/apps/appsxmega/!svn/ver/3587/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Drv
+END
+vbat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/apps/appsxmega/!svn/ver/3587/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Drv/vbat.h
+END
+rtc32_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/apps/appsxmega/!svn/ver/3561/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Drv/rtc32_driver.c
+END
+vbat.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/apps/appsxmega/!svn/ver/3587/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Drv/vbat.c
+END
+rtc32_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/apps/appsxmega/!svn/ver/3332/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Drv/rtc32_driver.h
+END

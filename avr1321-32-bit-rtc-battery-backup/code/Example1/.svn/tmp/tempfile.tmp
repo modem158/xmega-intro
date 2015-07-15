@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1502875999</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\doc\infocenter\index.ENU.html</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc32_example1.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc32_example1.r90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\pgmspace.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgxmega5soimntf.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\Atmel\ATxmega256A3B.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\Atmel\iomacro_xmega.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgxm256a3b.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgxmega5soimntf.xcl</file>
+      <file>$PROJ_DIR$\Debug\Exe\rtc32_example1.d90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioxm256a3b.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc32_driver.r90</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc32_driver.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc32_example1.pbd</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-5s-xmega-n.h</file>
+      <file>$PROJ_DIR$\..\avr_compiler.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdarg.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioavr.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dlAVR-5s-xmega-n.r90</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vbat.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vbat.r90</file>
+      <file>$PROJ_DIR$\..\Drv\rtc32_driver.h</file>
+      <file>$PROJ_DIR$\..\Drv\rtc32_driver.c</file>
+      <file>$PROJ_DIR$\rtc32_example1.c</file>
+      <file>$PROJ_DIR$\vbat.c</file>
+      <file>$PROJ_DIR$\vbat.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\rtc32_example1.d90</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 12 14 18 4 34 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\rtc32_example1.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 21 2 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drv\rtc32_driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 26 3 5 27 23 25 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 3 5 27 23 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Drv\rtc32_driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 26 3 5 27 23 25 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 35 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 3 5 27 23 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 35 39</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\vbat.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 26 3 5 27 23 25 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 3 5 27 23 11 13 32 9 16 30 20 1 29 17 19 7 10 6 8 22 28 39</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

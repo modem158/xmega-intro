@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\DES_example_size.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\DES_example_speed.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

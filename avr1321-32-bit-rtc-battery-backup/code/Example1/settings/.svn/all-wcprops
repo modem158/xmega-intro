@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/apps/appsxmega/!svn/ver/3551/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Example1/settings
+END
+rtc32_example1.dni
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/apps/appsxmega/!svn/ver/3551/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Example1/settings/rtc32_example1.dni
+END
+rtc32_example1.cspy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/apps/appsxmega/!svn/ver/3551/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Example1/settings/rtc32_example1.cspy.bat
+END
+rtc32_example1.dbgdt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/apps/appsxmega/!svn/ver/3332/avr1321_Using_the_XMEGA_32bit_RTC/trunk/source/Example1/settings/rtc32_example1.dbgdt
+END
